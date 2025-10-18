@@ -1,2 +1,2 @@
-# todo-list2
-Project: Todo List (The Odin Project: JavaScript Course)
+# project-name
+Project: Project Name (The Odin Project: Course Name)
