@@ -11,4 +11,8 @@ Project: Project Name (The Odin Project: Course Name)
 
 ## Deploy
 
-Run `npm run deploy` - it builds and deploys to GitHub Pages automatically.
+`git checkout gh-pages && git merge main --no-edit`
+`npm run build`
+`git add dist -f && git commit -m "Deployment commit"`
+`npm run deploy`
+`git checkout main`
