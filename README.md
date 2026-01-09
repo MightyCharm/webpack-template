@@ -25,7 +25,7 @@ Project: Project Name (The Odin Project: Course Name)
 
 ## 🖥️ Live Demo
 
-## 📸 Screenshot
+## 📸 Screenshots
 
 ## 🔧 Setup
 
