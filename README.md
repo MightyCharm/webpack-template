@@ -21,6 +21,7 @@ Project: Project Name (The Odin Project: Course Name)
   <img src="https://cdn.simpleicons.org/javascript" width="40" alt="JavaScript" />
   <img src="https://cdn.simpleicons.org/webpack" width="40" alt="Webpack" />
   <img src="https://cdn.simpleicons.org/npm" width="40" alt="npm" />
+  <img src="https://cdn.simpleicons.org/jest" width="40" alt="jest" />
 </p>
 
 ## 🖥️ Live Demo
